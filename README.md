@@ -8,6 +8,6 @@
 
 ### Gitee
 
-#### https://gitee.com/misitebao/CDN/raw/master/md/20200825025141.png
+#### https://gitee.com/misitebao/CDN/raw/master/
 
  
