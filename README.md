@@ -4,7 +4,7 @@
 
 ### Github
 
-#### https://cdn.jsdelivr.net/gh/misitebao/CDN@master/
+#### https://cdn.jsdelivr.net/gh/misitebao/CDN@master/ 
 
 ### Gitee
 
