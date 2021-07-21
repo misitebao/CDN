@@ -4,10 +4,10 @@
 
 ### Github
 
-#### https://cdn.jsdelivr.net/gh/misitebao/CDN@master/ 
+#### https://cdn.jsdelivr.net/gh/misitebao/CDN/ 
 
 ### Gitee
 
-#### https://gitee.com/misitebao/CDN/raw/master/
+#### https://gitee.com/misitebao/CDN/raw/main/
 
  
