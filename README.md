@@ -4,10 +4,8 @@
 
 ### Github
 
-#### https://cdn.jsdelivr.net/gh/misitebao/CDN/ 
+#### https://cdn.jsdelivr.net/gh/misitebao/CDN@main/
 
 ### Gitee
 
 #### https://gitee.com/misitebao/CDN/raw/main/
-
- 
